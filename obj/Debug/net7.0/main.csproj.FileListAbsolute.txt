@@ -1,0 +1,14 @@
+/home/runner/workspace/bin/Debug/net7.0/main
+/home/runner/workspace/bin/Debug/net7.0/main.deps.json
+/home/runner/workspace/bin/Debug/net7.0/main.runtimeconfig.json
+/home/runner/workspace/bin/Debug/net7.0/main.dll
+/home/runner/workspace/bin/Debug/net7.0/main.pdb
+/home/runner/workspace/obj/Debug/net7.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/obj/Debug/net7.0/main.AssemblyInfoInputs.cache
+/home/runner/workspace/obj/Debug/net7.0/main.AssemblyInfo.cs
+/home/runner/workspace/obj/Debug/net7.0/main.csproj.CoreCompileInputs.cache
+/home/runner/workspace/obj/Debug/net7.0/main.dll
+/home/runner/workspace/obj/Debug/net7.0/refint/main.dll
+/home/runner/workspace/obj/Debug/net7.0/main.pdb
+/home/runner/workspace/obj/Debug/net7.0/main.genruntimeconfig.cache
+/home/runner/workspace/obj/Debug/net7.0/ref/main.dll
